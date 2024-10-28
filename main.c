@@ -10,7 +10,6 @@ int main(void) {
         printf("\nGeben Sie die %d. von 10 Noten ein:", i + 1);
         scanf("%f", &noten[i]);
         summe = summe + noten[i];
-        printf("%d", i);
     }
     durchschnitt = summe / (i);
 
