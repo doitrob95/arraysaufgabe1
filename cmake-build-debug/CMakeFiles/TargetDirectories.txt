@@ -1,0 +1,3 @@
+C:/Users/rapor/OneDrive - Berufsbildungszentrum Schaffhausen/Dokumente/HF/3. Semester/Informatik/Arrays/cmake-build-debug/CMakeFiles/Arrays.dir
+C:/Users/rapor/OneDrive - Berufsbildungszentrum Schaffhausen/Dokumente/HF/3. Semester/Informatik/Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rapor/OneDrive - Berufsbildungszentrum Schaffhausen/Dokumente/HF/3. Semester/Informatik/Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
